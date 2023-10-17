@@ -8,6 +8,7 @@ jupyter = "*"
 openai = "*"
 python-dotenv = "*"
 redlines = "*"
+panel = "*"
 
 [dev-packages]
 

@@ -9,6 +9,8 @@ openai = "*"
 python-dotenv = "*"
 redlines = "*"
 panel = "*"
+tiktoken = "*"
+utils = "*"
 
 [dev-packages]
 
